@@ -1,3 +1,3 @@
-def print_hello():
-    print('hello test')
-print_hello()
+def print_hello(some_text):
+    print(some_text)
+print_hello('Hello git')
