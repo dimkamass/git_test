@@ -11,4 +11,4 @@ def second_func():
 
 def new_func():
     print('hello')
-    return
+    return -1
