@@ -3,3 +3,6 @@ def print_hello(some_text):
 print_hello('Hello git')
 def second_func():
     return
+
+def new_func():
+    return
