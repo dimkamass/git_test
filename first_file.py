@@ -5,4 +5,5 @@ def second_func():
     return
 
 def new_func():
+    print('hello')
     return
